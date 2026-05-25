@@ -5,7 +5,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:lumiere_flow/providers/cycle_provider.dart';
 
-// Import widget pecahan baru kamu di bawah ini
+// Import bungkusan widget pecahan barumu di sini
 import 'widgets/cycle_status_circle.dart';
 import 'widgets/symptom_chips_section.dart';
 import 'widgets/golden_rule_card.dart';

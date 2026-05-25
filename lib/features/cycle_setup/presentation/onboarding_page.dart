@@ -2,7 +2,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:lumiere_flow/features/cycle_setup_page.dart';
+import 'package:lumiere_flow/features/cycle_setup/presentation/cycle_setup_page.dart';
 
 class OnboardingPage extends StatefulWidget {
   const OnboardingPage({super.key});

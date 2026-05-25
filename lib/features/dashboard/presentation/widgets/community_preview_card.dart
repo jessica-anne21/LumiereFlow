@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lumiere_flow/features/community_page.dart';
+import 'package:lumiere_flow/features/community/presentation/community_page.dart';
 
 class CommunityPreviewCard extends StatelessWidget {
   final Color accentColor;

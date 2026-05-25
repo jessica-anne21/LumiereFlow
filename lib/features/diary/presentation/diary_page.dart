@@ -4,7 +4,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:lumiere_flow/features/diary_timeline_page.dart';
+import 'package:lumiere_flow/features/diary/presentation/diary_timeline_page.dart';
 
 class DiaryPage extends StatefulWidget {
   const DiaryPage({super.key});

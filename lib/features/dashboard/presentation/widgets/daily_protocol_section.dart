@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lumiere_flow/features/skincare_page.dart';
-import 'package:lumiere_flow/features/food_page.dart';
+import 'package:lumiere_flow/features/skincare/presentation/skincare_page.dart';
+import 'package:lumiere_flow/features/food/presentation/food_page.dart';
 
 class DailyProtocolSection extends StatelessWidget {
   final Color accentColor;

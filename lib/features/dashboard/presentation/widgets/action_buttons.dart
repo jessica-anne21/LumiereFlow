@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:lumiere_flow/features/diary_page.dart';
+import 'package:lumiere_flow/features/diary/presentation/diary_page.dart';
 
 class ActionButtons extends StatelessWidget {
   final Color accentColor;

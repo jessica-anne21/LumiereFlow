@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:lumiere_flow/features/onboarding_page.dart';
+import 'package:lumiere_flow/features/cycle_setup/presentation/onboarding_page.dart';
 import 'package:lumiere_flow/features/dashboard/presentation/home_page.dart';
 
 class AuthPage extends StatefulWidget {
